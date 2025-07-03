@@ -20,9 +20,11 @@ A sleek and fully functional Countdown Timer app built with Python's Tkinter lib
 
 ## 📸 Demo Screenshots
 
-Here are preview images of the countdown timer UI in action:
-(screenshot1.png)
-(screenshot2.png)
+### ⏳ Countdown in Progress (with progress bar)
+![Countdown Running](screenshot2.png)
+
+### ⏰ Time's Up Alert Screen
+![Time's Up](screenshot1.png)
 
 ---
 
